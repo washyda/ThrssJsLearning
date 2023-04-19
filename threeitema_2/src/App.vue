@@ -2,20 +2,23 @@
   <div id="app">
     <!-- <Three></Three> -->
     <!-- <Buffer></Buffer> -->
-    <Material></Material>
+<!--    <Material></Material>-->
+    <BufferVertices></BufferVertices>
   </div>
 </template>
 
 <script>
 // import Three from '@/components/Three/Three.vue'
 // import Buffer from '@/components/Buffer/Buffer.vue'
-import Material from '@/components/Mateial/Material.vue'
+// import Material from '@/components/Mateial/Material.vue'
+import BufferVertices from '@/components/BufferVertices/BufferVertices.vue'
 export default {
   name: 'App',
   components: {
     // Three
     // Buffer
-    Material
+    // Material,
+    BufferVertices
   }
 }
 </script>

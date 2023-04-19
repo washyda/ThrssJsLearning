@@ -1,0 +1,7 @@
+## 忽略所有nodemodules依赖
+node_modules
+## 忽略dist编译文件
+dist
+## 忽略cache文件
+.cache
+.idea

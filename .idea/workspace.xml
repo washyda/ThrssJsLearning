@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8eca82b-76e8-48b9-943a-a70feb36f6ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three_basic_1/.cache/4b/399c7ce453300a0064ff495e94284e.json" beforeDir="false" afterPath="$PROJECT_DIR$/three_basic_1/.cache/4b/399c7ce453300a0064ff495e94284e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three_basic_1/.cache/4d/897a2a9b7b471bc64b1bb8f28d498b.json" beforeDir="false" afterPath="$PROJECT_DIR$/three_basic_1/.cache/4d/897a2a9b7b471bc64b1bb8f28d498b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three_basic_1/.cache/5a/c7493c1691f3cc0f3857f0fa4bd692.json" beforeDir="false" afterPath="$PROJECT_DIR$/three_basic_1/.cache/5a/c7493c1691f3cc0f3857f0fa4bd692.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three_basic_1/.cache/87/6729f8c882261c8d3ebe7b130a19ca.json" beforeDir="false" afterPath="$PROJECT_DIR$/three_basic_1/.cache/87/6729f8c882261c8d3ebe7b130a19ca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three_basic_1/.cache/b4/25801dc7c3e5606d4d83788bee64ce.json" beforeDir="false" afterPath="$PROJECT_DIR$/three_basic_1/.cache/b4/25801dc7c3e5606d4d83788bee64ce.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three_basic_1/.cache/b5/66e801698ac536f2e43b64c4153604.json" beforeDir="false" afterPath="$PROJECT_DIR$/three_basic_1/.cache/b5/66e801698ac536f2e43b64c4153604.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three_basic_1/.cache/eb/bc007c35de94aa35564beb9d76ac4a.json" beforeDir="false" afterPath="$PROJECT_DIR$/three_basic_1/.cache/eb/bc007c35de94aa35564beb9d76ac4a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threeitema_2/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/threeitema_2/src/App.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ObDpa58flgStfNUDBc3VPrsU7B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ThreeJs" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -18,5 +55,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8eca82b-76e8-48b9-943a-a70feb36f6ab" name="Default Changelist" comment="" />
+      <created>1681820573598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681820573598</updated>
+      <workItem from="1681820575138" duration="43000" />
+      <workItem from="1681820627936" duration="188000" />
+      <workItem from="1681820819653" duration="50000" />
+      <workItem from="1681903110370" duration="6221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
